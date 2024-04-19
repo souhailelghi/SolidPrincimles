@@ -1,0 +1,75 @@
+﻿//using System;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading.Tasks;
+
+//namespace LiskovSubstitution.After
+//{
+
+//    public class Rectangle1 : IShape
+//    {
+//        private int width;
+//        private int height;
+
+//        public Rectangle1(int width, int height)
+//        {
+//            this.width = width;
+//            this.height = height;
+//        }
+
+//        public int GetWidth()
+//        {
+//            return width;
+//        }
+
+//        public int GetHeight()
+//        {
+//            return height;
+//        }
+
+//        public void SetWidth(int width)
+//        {
+//            this.width = width;
+//        }
+
+//        public void SetHeight(int height)
+//        {
+//            this.height = height;
+//        }
+
+//        public int Area()
+//        {
+//            return width * height;
+//        }
+//    }
+
+
+
+
+//    //public class Rectangle1 : IShape
+//    //{
+//    //    private int width;
+//    //    private int height;
+//    //    public Rectangle1(int width ,int height)
+//    //    {
+//    //        this.width = width;
+//    //        this.height = height;
+//    //    }
+//    //    public void SetWidth(int width)
+//    //    {
+
+//    //        this.width = width;
+//    //    }
+
+//    //    public void SetHeight(int height)
+//    //    {
+//    //        this.height = height;
+//    //    }
+
+//    //    public int Area()
+//    //    {
+//    //        return width * height;
+//    //    }
+//    //}
+//}
