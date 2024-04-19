@@ -13,11 +13,11 @@ namespace LiskovSubstitution
 
 
             // After
-            Rectangle1 rectangle11 = new Rectangle1(10, 2);
-            Square1 square11 = new Square1(5, 5);
+            //Rectangle1 rectangle11 = new Rectangle1(10, 2);
+            //Square1 square11 = new Square1(5, 5);
 
-            IncreaseShapeWidth(rectangle11) ;
-            IncreaseShapeWidth(square11);
+            //IncreaseShapeWidth(rectangle11) ;
+            //IncreaseShapeWidth(square11);
 
 
 

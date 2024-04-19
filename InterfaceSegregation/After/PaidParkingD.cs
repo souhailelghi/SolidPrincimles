@@ -9,6 +9,8 @@ namespace InterfaceSegregation.After
 {
     internal class PaidParkingD:IParkingLot,IPaidParkingLot
     {
+
+
         public void ParkCar()
         {
             
